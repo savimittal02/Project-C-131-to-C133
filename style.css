@@ -1,0 +1,76 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+
+img{
+    background-size: contain;   
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+#kidsroom{
+    background-color: black;
+    float:right;
+    color:white;
+    border:3px solid white;
+    box-shadow:5px 5px 5px rgb(56, 50, 50);
+   font-size:30px;
+   border-radius:15px;
+   padding:5px;
+   margin:20px;
+}
+
+#bedroom{
+    background-color: black;
+    float:right;
+    color:white;
+    border:3px solid white;
+    box-shadow:5px 5px 5px rgb(56, 50, 50);
+   font-size:30px;
+   border-radius:15px;
+   padding:5px;
+   margin:20px;
+}
+
+#kitchen{
+    background-color: black;
+    float:right;
+    color:white;
+    border:3px solid white;
+    box-shadow:5px 5px 5px rgb(56, 50, 50);
+   font-size:30px;
+   border-radius:15px;
+   padding:5px;
+   margin:20px;
+}
+
+#diningroom{
+    background-color: black;
+    float:right;
+    color:white;
+    border:3px solid white;
+    box-shadow:5px 5px 5px rgb(56, 50, 50);
+   font-size:30px;
+   border-radius:15px;
+   padding:5px;
+   margin:20px;
+}
